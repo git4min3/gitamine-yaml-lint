@@ -1,5 +1,7 @@
 {
-  "name": "yaml-lint",
-  "author": "Javier Gonzalez Cuadrado <xgc1986@gmail.com>",
+  "name": "gitamine-yaml-lint",
+  "authors": [
+    "Javier Gonzalez Cuadrado <xgc1986@gmail.com>"
+  ],
   "plugin": "git4min3/gitamine-yaml-lint"
 }
