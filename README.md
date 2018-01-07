@@ -5,6 +5,7 @@
 * php >= 7.1
 * yaml-lint (https://github.com/j13k/yaml-lint)
 * Linux/Mac
+* Gitamine
 
 ## Installation
 
